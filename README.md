@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the documentation for the Managed WiFi solution developed for our client. The solution involves collecting data from APIs every 6 minutes using Python scripts, performing data modeling to identify key metrics, and creating a dashboard in Excel to visualize the collected data. The dashboard includes information about the number of installed Access Points (APs), unique zones, currently connected clients, total Network Access Server (NAS) information, RSSI, traffic Signal-to-Noise Ratio (SNR), and radio connection bifurcation between 2.4 GHz and 5 GHz bands. Client-level information is also visualized for better insights.
+This repository contains the documentation for the Managed WiFi solution developed for our client. The solution involves collecting data from APIs every 6 minutes using Python scripts, performing data modeling to identify key metrics, and creating a dashboard in Power BI to visualize the collected data. The dashboard includes information about the number of installed Access Points (APs), unique zones, currently connected clients, total Network Access Server (NAS) information, RSSI, traffic Signal-to-Noise Ratio (SNR), and radio connection bifurcation between 2.4 GHz and 5 GHz bands. Client-level information is also visualized for better insights.
 
 ## Folder Structure
 
