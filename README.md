@@ -29,9 +29,9 @@ This repository contains the documentation for the Managed WiFi solution develop
 
 ## Dependencies
 
-- Python 3.x
-- Jupyter Notebooks (for data modeling)
-- Excel (for viewing/editing the dashboard)
+- Python 3.x for collecting data from API
+- Excel and Power BI (for data modeling)
+- Power Bi (for viewing/editing the dashboard)
 
 ## Contributors
 
